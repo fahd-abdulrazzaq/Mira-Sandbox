@@ -1,4 +1,4 @@
-import MiraPlayground from "MiraPlayground.js";
+import MiraPlayground from "MiraPlayground";
 
 export default function Home() {
   return (
