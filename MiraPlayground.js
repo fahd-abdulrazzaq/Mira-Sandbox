@@ -1,5 +1,5 @@
 'use client';
-import { Sandpack } from "Sandpack.js";
+import { Sandpack } from "sandpack.js";
 
 export default function MiraPlayground() {
   return (
